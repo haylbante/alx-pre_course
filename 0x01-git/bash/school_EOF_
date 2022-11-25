@@ -1,0 +1,7 @@
+clear
+
+root@0bf5d2515300:~/alx-pre_course/0x01-git/bash# cat > school <<_EOF_
+root@0bf5d2515300:~/alx-pre_course/0x01-git/bash# cat > school_EOF_clear
+> #!/bin/bash  
+echo "School"
+_EOF_
